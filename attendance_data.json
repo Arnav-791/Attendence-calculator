@@ -1,0 +1,237 @@
+{
+  "subjects": {
+    "BCS501": {
+      "name": "SE",
+      "credits": 3
+    },
+    "BCS502": {
+      "name": "CN",
+      "credits": 4
+    },
+    "BCS503": {
+      "name": "TOC",
+      "credits": 4
+    },
+    "BCS505E": {
+      "name": "PE",
+      "credits": 3
+    },
+    "BRMK507": {
+      "name": "RM",
+      "credits": 2
+    },
+    "BESK508": {
+      "name": "EVS",
+      "credits": 1
+    },
+    "BCSL504": {
+      "name": "WEB TECH",
+      "credits": 1,
+      "is_lab": true
+    },
+    "BCS506": {
+      "name": "MINI PROJ",
+      "credits": 3,
+      "is_lab": true
+    }
+  },
+  "timetable": {
+    "Monday": [
+      [
+        "10:40",
+        "BCS502"
+      ],
+      [
+        "11:35",
+        "BCS502"
+      ],
+      [
+        "Period 1 (8:30-9:25)",
+        "BRMK507"
+      ],
+      [
+        "Period 2 (9:25-10:20)",
+        "BCS502"
+      ]
+    ],
+    "Tuesday": [
+      [
+        "01:25",
+        "BCS503"
+      ],
+      [
+        "08:30",
+        "BCS502"
+      ],
+      [
+        "09:25",
+        "BCS503"
+      ],
+      [
+        "10:40",
+        "BCS505E"
+      ]
+    ],
+    "Wednesday": [
+      [
+        "Period 1 (8:30-9:25)",
+        "BCS501"
+      ],
+      [
+        "Period 2 (9:25-10:20)",
+        "BCS503"
+      ],
+      [
+        "Period 3 (10:40-11:35)",
+        "BRMK507"
+      ],
+      [
+        "Period 5 (1:25-2:20)",
+        "BESK508"
+      ]
+    ],
+    "Thursday": [
+      [
+        "Period 1 (8:30-9:25)",
+        "BCS505E"
+      ],
+      [
+        "Period 2 (9:25-10:20)",
+        "BCS501"
+      ],
+      [
+        "Period 3 (10:40-11:35)",
+        "BCS503"
+      ],
+      [
+        "Period 4 (11:35-12:30)",
+        "BCS502"
+      ],
+      [
+        "Period 5 (1:25-2:20)",
+        "BCSL504"
+      ],
+      [
+        "Period 6 (2:20-3:15)",
+        "BCSL504"
+      ]
+    ],
+    "Friday": [
+      [
+        "Period 1 (8:30-9:25)",
+        "BCS503"
+      ],
+      [
+        "Period 2 (9:25-10:20)",
+        "BCS501"
+      ],
+      [
+        "Period 3 (10:40-11:35)",
+        "BCS505E"
+      ]
+    ]
+  },
+  "holidays": [
+    "2025-11-08",
+    "2025-12-07",
+    "2025-09-27",
+    "2025-11-22",
+    "2025-10-05",
+    "2025-12-13",
+    "2025-10-25",
+    "2025-11-23",
+    "2025-10-18",
+    "2025-11-30",
+    "2025-11-02",
+    "2025-11-01",
+    "2025-11-16",
+    "2025-11-29",
+    "2025-12-06",
+    "2025-10-04",
+    "2025-10-26",
+    "2025-11-15",
+    "2025-10-19",
+    "2025-11-09",
+    "2025-10-11",
+    "2025-09-28",
+    "2025-10-12"
+  ],
+  "attendance_records": {
+    "BCS501": [
+      {
+        "date": "2025-09-26",
+        "status": "present"
+      }
+    ],
+    "BCS502": [],
+    "BCS503": [
+      {
+        "date": "2025-09-26",
+        "status": "absent"
+      }
+    ],
+    "BCS505E": [
+      {
+        "date": "2025-09-26",
+        "status": "absent"
+      }
+    ],
+    "BRMK507": [],
+    "BESK508": [],
+    "BCSL504": [],
+    "BCS506": []
+  },
+  "minimum_attendance": 70.0,
+  "absence_reasons": {
+    "2025-09-18": {
+      "type": "Event",
+      "reason": "Sih"
+    },
+    "2025-09-19": {
+      "type": "Event",
+      "reason": "sih"
+    },
+    "2025-09-23": {
+      "type": "Event",
+      "reason": "sih"
+    }
+  },
+  "semester_end_date": "2025-12-13",
+  "initial_attendance": {
+    "BCS501": {
+      "present": 4,
+      "absent": 9,
+      "yet_to_go": 33
+    },
+    "BCS502": {
+      "present": 7,
+      "absent": 14,
+      "yet_to_go": 44
+    },
+    "BCS503": {
+      "present": 4,
+      "absent": 20,
+      "yet_to_go": 51
+    },
+    "BCS505E": {
+      "present": 3,
+      "absent": 10,
+      "yet_to_go": 46
+    },
+    "BRMK507": {
+      "present": 2,
+      "absent": 9,
+      "yet_to_go": 22
+    },
+    "BESK508": {
+      "present": 2,
+      "absent": 3,
+      "yet_to_go": 9
+    },
+    "BCSL504": {
+      "present": 1,
+      "absent": 6,
+      "yet_to_go": 11
+    }
+  }
+}
