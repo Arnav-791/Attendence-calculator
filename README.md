@@ -1,8 +1,8 @@
-AI Attendance Calculator — README
+## AI Attendance Calculator — README
 
 One-line: AI Attendance Calculator is a lightweight tool that estimates, predicts, and helps manage student attendance using computer-vision or log data and simple ML rules — with explanations, alerts, and a CLI/API for easy integration.
 
-Table of contents
+## Table of contents
 
 Overview
 
@@ -22,7 +22,7 @@ Troubleshooting
 
 Contributing
 
-License & credits
+## License & credits
 
 Overview
 
@@ -36,7 +36,7 @@ The system combines deterministic rules (time windows, thresholds) with explaina
 
 Designed to be modular, privacy-first, and easy to integrate into college portals or Discord/Slack bots.
 
-Features
+## Features
 
 ✅ Parse attendance from CSV / JSON logs
 
@@ -54,7 +54,7 @@ Features
 
 ✅ Lightweight — runs locally or in a Docker container
 
-Quick start
+## Quick start
 Requirements
 
 Python 3.10+
