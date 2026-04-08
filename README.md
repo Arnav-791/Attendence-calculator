@@ -44,7 +44,7 @@ Designed to be modular, privacy-first, and easy to integrate into college portal
 
 ✅ Predictive risk scoring (who’s likely to dip below required % next exam)
 
-✅ CLI, REST API, and batch job modes
+✅ CLI, REST API, and batch job mode
 
 ✅ Configurable parameters (grace period, minimum % requirement)
 
