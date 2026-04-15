@@ -15,7 +15,7 @@ class AttendanceTracker:
         self.minimum_attendance = 75  # Default minimum attendance percentage
         self.absence_reasons = {}  # {date: {'reason': reason, 'type': type}}
         self.semester_end_date = "2025-12-13"  # Semester end date
-        self.initial_attendance = {}  # {subject: {'total_classes': int, 'attended': int}}
+        self.initial_attendance = {}  # {subject: {'total_classes': int, 'attended': Int}} 
         self.data_file = "attendance_data.json"
         self.load_data()
         self.mark_weekends_as_holidays()
